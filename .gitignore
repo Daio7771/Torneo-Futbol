@@ -1,0 +1,17 @@
+# Claude Code
+.claudeignore
+
+# IDEs
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Entorno y secretos
+.env
+.env.*

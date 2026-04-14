@@ -1,0 +1,34 @@
+# .claudeignore - Static Web (HTML + CSS + JS)
+
+# Assets binarios
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+*.svg
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.mp4
+*.webm
+*.mov
+*.pdf
+
+# Entorno y secretos
+.env
+.env.*
+
+# Git
+.git/
+
+# IDEs y SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
